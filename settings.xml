@@ -1,0 +1,45 @@
+<People>
+  <Person>
+    <Name>James Bond</Name>
+    <Email>Bond@Gmail.com</Email>
+    <Address>99 Bond Street
+Windsor
+SL4 2AA</Address>
+    <Notes>James Bond Movie</Notes>
+    <Birthday>131032039122334123</Birthday>
+  </Person>
+  <Person>
+    <Name>Will Smith</Name>
+    <Email>Smith@hotmail.com</Email>
+    <Address>55 Smith Street
+Ascot
+SL5 5HH</Address>
+    <Notes>Men In Blach Movie</Notes>
+    <Birthday>131032039852447302</Birthday>
+  </Person>
+  <Person>
+    <Name>Batman</Name>
+    <Email>Batman@Gmail.com</Email>
+    <Address>56 Batman Street
+Slough
+SL1 2LB</Address>
+    <Notes>Batman Movie is very popular</Notes>
+    <Birthday>131032040888141859</Birthday>
+  </Person>
+  <Person>
+    <Name>iron man</Name>
+    <Email>iron@gmail,com</Email>
+    <Address>88 iron street
+Slough
+sl1 1aa</Address>
+    <Notes>is good movie maker</Notes>
+    <Birthday>131032051426950755</Birthday>
+  </Person>
+  <Person>
+    <Name>gs.xml</Name>
+    <Email>settings.xml</Email>
+    <Address>settings.xml</Address>
+    <Notes>settings.xmlsettings.xmlsettings.xml</Notes>
+    <Birthday>131345836089841663</Birthday>
+  </Person>
+</People>

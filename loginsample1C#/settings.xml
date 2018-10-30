@@ -1,0 +1,26 @@
+<People>
+  <Person>
+    <Name>adam</Name>
+    <Email>adam@hotmail.com</Email>
+    <Address>adam street</Address>
+    <Notes>
+    </Notes>
+    <Birthday>130978572023739122</Birthday>
+  </Person>
+  <Person>
+    <Name>said</Name>
+    <Email>said@hotmail.com</Email>
+    <Address>said street</Address>
+    <Notes>
+    </Notes>
+    <Birthday>130978572265010362</Birthday>
+  </Person>
+  <Person>
+    <Name>ali</Name>
+    <Email>ali@hotmail.com</Email>
+    <Address>alio street</Address>
+    <Notes>
+    </Notes>
+    <Birthday>130978572738064491</Birthday>
+  </Person>
+</People>
